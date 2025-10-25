@@ -13,8 +13,8 @@ pip install -r requirements.txt
 python demo.py
  ```
 ## ⚙️ Dataset
-* The complete dataset CRSVQA can be found in MQVQA.\n
+* The complete dataset CRSVQA can be found in MQVQA.
 
-* The complete dataset RSIEval can be found in RSGPT.\n
+* The complete dataset RSIEval can be found in RSGPT.
 
-* The complete dataset EarthVQA can be found in EarthVQA.\n
+* The complete dataset EarthVQA can be found in EarthVQA.
